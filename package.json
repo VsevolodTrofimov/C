@@ -1,0 +1,24 @@
+{
+  "name": "c-app",
+  "version": "0.0.1",
+  "description": "c app for collective text correcting",
+  "main": "server.js",
+  "scripts": {
+    "test": "console.log(\"test:)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VsevolodTrofimov/c-app.git"
+  },
+  "keywords": [
+    "text",
+    "correction",
+    "app"
+  ],
+  "author": "Vsevolod Trofimov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VsevolodTrofimov/c-app/issues"
+  },
+  "homepage": "https://github.com/VsevolodTrofimov/c-app#readme"
+}
