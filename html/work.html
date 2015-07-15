@@ -1,0 +1,97 @@
+<title class="title"></title>
+<meta charset='utf-8'>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<style type="text/css">#overlay{position:absolute;top:0;left:0;width:100%;height: 100%;background: #333; text-align: center; line-height: 100vh;}#overlay h1{vertical-align: middle;}</style>
+<script type="text/javascript">
+/*		//chat
+		function Msend(){
+			$.ajax({
+				url : "/publish",
+				method : "POST",
+				data : JSON.stringify({message : $("#message").val()}),
+				async : true
+			})
+			.done(function(data){
+				if(data != "ok")
+				{
+					console.log(data);
+				}
+			});
+		}
+		function subscribe(){
+			$.ajax({
+				method: "GET",
+				url: "/subscribe"
+			})
+			.done(function(data){
+				$("#chat").append("<li>"+data+"</li>");
+				subscribe();
+			});
+			console.log("S done");
+		}
+		$(document).ready(function() {
+		//	subscribe();
+		});*/
+</script>
+<script type="text/javascript">
+	//text,title,tools
+	var ready = {
+		info: false,
+		text: false,
+		tools: false,
+		changes: false
+	};
+	$(document).ready(function() {
+		$.get("../get-info?serial="+serial,function( data ) {
+			$(".title").html(JSON.parse(data).title)
+			ready.info=true;
+		});
+		$.get("../get-text?serial="+serial,function( data ) {
+			$("#text").html(data);
+			ready.text=true;
+		});
+		if(version!="original")
+		{
+			$.get("../get-tools?serial="+serial+"&vers="+version,function( data ) {
+				var tools=JSON.parse(data);
+				var data='';
+				for(var toolcolor in tools)
+				{
+					data+="<div class='tool "+toolcolor+"'>"+toolcolor+"</div>";
+				}
+				$("#toolbar").html(data);
+				ready.tools=true;
+				console.log(data,tools);
+			});
+			ready.changes=true;
+		}
+		else
+		{
+			ready.tools=true;
+			ready.changes=true;
+		}
+	});
+	function render(){
+		console.log(ready);
+		if(ready.info&&ready.text&&ready.tools&&ready.changes){
+			console.log("ok");
+			clearInterval(loading);
+			$('#overlay').hide();
+		}
+	}
+	var loading=setInterval(function(){render();console.log("interval")}, 100);
+</script>
+</head>
+<body>
+workUI
+<div id="overlay"><h1>LOADING...</h1></div>
+<h1 class="title"></h1>
+
+<div id="text"></div>
+
+<div id="toolbar"></div>
+
+<input name='message' id="message"><button onclick="Msend()">SEND</button>
+<ul id="chat"></ul>
+</body>
+</html>

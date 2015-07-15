@@ -1,0 +1,1109 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"process",
+				"process.exit"
+			],
+			[
+				"mar",
+				"margin-left: "
+			],
+			[
+				"margi",
+				"margin-bottom: "
+			],
+			[
+				"pad",
+				"padding-bottom: "
+			],
+			[
+				"pop",
+				"popUp"
+			],
+			[
+				"border",
+				"border-color: "
+			],
+			[
+				"box",
+				"box-sizing: "
+			],
+			[
+				"light",
+				"light-grey"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bo",
+				"border: "
+			],
+			[
+				"cs",
+				"css	.css() - single"
+			],
+			[
+				"comm",
+				"comment"
+			],
+			[
+				"on",
+				"onClick"
+			],
+			[
+				"attr",
+				"attr	.attr() - single"
+			],
+			[
+				"offset",
+				"offset	.offset()"
+			],
+			[
+				"off",
+				"offset	.offset()"
+			],
+			[
+				"come",
+				"comments"
+			],
+			[
+				"trans",
+				"transition: "
+			],
+			[
+				"lin",
+				"lines"
+			],
+			[
+				"li",
+				"lines"
+			],
+			[
+				"spa",
+				"spanC"
+			],
+			[
+				"in",
+				"innerHTML"
+			],
+			[
+				"marg",
+				"margin-top: "
+			],
+			[
+				"po",
+				"pointer"
+			],
+			[
+				"font",
+				"font-weight: "
+			],
+			[
+				"n",
+				"normal"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"rg",
+				"rgba	rgba()"
+			],
+			[
+				"bor",
+				"border-radius: "
+			],
+			[
+				"margin",
+				"margin-bottom: "
+			],
+			[
+				"flo",
+				"float: "
+			],
+			[
+				"butt",
+				"button	Tag"
+			],
+			[
+				"zi",
+				"z-index: "
+			],
+			[
+				"margin-",
+				"margin-left: "
+			],
+			[
+				"mark",
+				"marker"
+			],
+			[
+				"mou",
+				"mouseup	.mouseup()"
+			],
+			[
+				"old",
+				"oldSelection"
+			],
+			[
+				"selec",
+				"selection"
+			],
+			[
+				"ger",
+				"grey"
+			],
+			[
+				"ind",
+				"indicator"
+			],
+			[
+				"transf",
+				"transform: "
+			],
+			[
+				"big",
+				"bigger"
+			],
+			[
+				"tra",
+				"transition: "
+			],
+			[
+				"bl",
+				"black"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"rgb",
+				"rgba	rgba()"
+			],
+			[
+				"z",
+				"z-index: "
+			],
+			[
+				"menu",
+				"menuOpen"
+			],
+			[
+				"wid",
+				"width: "
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"mag",
+				"margin-top"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"read",
+				"ready	$(document).ready"
+			],
+			[
+				"sc",
+				"script	Tag"
+			],
+			[
+				"max",
+				"max-width: "
+			],
+			[
+				"pos",
+				"position: "
+			],
+			[
+				"conte",
+				"content: "
+			],
+			[
+				"le",
+				"letter"
+			],
+			[
+				"dr",
+				"dropped_vowels"
+			],
+			[
+				"syl",
+				"sylls"
+			],
+			[
+				"exp",
+				"explode"
+			],
+			[
+				"style",
+				"style	Tag"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"vows",
+				"vows_d"
+			],
+			[
+				"cons",
+				"cons_d"
+			],
+			[
+				"ty",
+				"type_vow"
+			],
+			[
+				"type",
+				"type_con"
+			],
+			[
+				"fora",
+				"foreach	foreach …"
+			],
+			[
+				"co",
+				"count"
+			],
+			[
+				"op",
+				"opacity	opacity()"
+			],
+			[
+				"vow",
+				"vowels"
+			],
+			[
+				"vo",
+				"violet"
+			],
+			[
+				"consona",
+				"consonats"
+			],
+			[
+				"add",
+				"addClass	.addClass()"
+			],
+			[
+				"lien",
+				"line-height"
+			],
+			[
+				"border-",
+				"border-width"
+			],
+			[
+				"incl",
+				"include	@include"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"th",
+				"thick"
+			],
+			[
+				"lig",
+				"light-grey"
+			],
+			[
+				"bord",
+				"border-width"
+			],
+			[
+				"las",
+				"last_num"
+			],
+			[
+				"la",
+				"last_sylls_all"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"cou",
+				"count_vowels"
+			],
+			[
+				"is",
+				"is_array"
+			],
+			[
+				"globa",
+				"gupnp_control_point_browse_start"
+			],
+			[
+				"thi",
+				"this_rythm"
+			],
+			[
+				"rythm",
+				"rythm_all"
+			],
+			[
+				"ryt",
+				"rythm_all"
+			],
+			[
+				"ry",
+				"rythm"
+			],
+			[
+				"inc",
+				"include"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"arrayp",
+				"array_push"
+			],
+			[
+				"dropped_vowels",
+				"dropped_vowels_all"
+			],
+			[
+				"vowel",
+				"vowelless"
+			],
+			[
+				"fi",
+				"file_get_contents"
+			],
+			[
+				"lines",
+				"lines_syll"
+			],
+			[
+				"TO",
+				"to_valid_format"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"strTo",
+				"strtolower"
+			],
+			[
+				"at",
+				"attr	.attr() - single"
+			],
+			[
+				"w",
+				"width	Attr"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"ifr",
+				"iframe	Tag"
+			],
+			[
+				"if",
+				"iframe	<iframe>"
+			],
+			[
+				"fge",
+				"fgets"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"end",
+				"ending"
+			],
+			[
+				"va",
+				"variants"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"en",
+				"ending"
+			],
+			[
+				"ti",
+				"till_end"
+			],
+			[
+				"hav",
+				"have_consonant"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"replace",
+				"replaceAt"
+			],
+			[
+				"mouse",
+				"mouseover	.mouseover()"
+			],
+			[
+				"corr",
+				"corr_word"
+			],
+			[
+				"new",
+				"new_word"
+			],
+			[
+				"syll",
+				"syllables"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"st",
+				"style	<style>"
+			],
+			[
+				"added",
+				"added_v"
+			],
+			[
+				"whe",
+				"where"
+			],
+			[
+				"r",
+				"rootcode"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 338.0,
+		"last_filter": "js",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"ht",
+				"Snippet: html"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"txt",
+				"Set Syntax: Textile"
+			],
+			[
+				"jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"PHP",
+				"Set Syntax: PHP"
+			],
+			[
+				"paired",
+				"Snippet: Google AJAX Libraries: Dojo"
+			],
+			[
+				"tr",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"retra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"ph",
+				"Set Syntax: PHP"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"pph",
+				"Set Syntax: PHP"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"tra",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"istal",
+				"Package Control: Install Package"
+			],
+			[
+				"trai",
+				"Trailing Spaces: Delete Trailing Spaces"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"packins",
+				"Package Control: Install Package"
+			],
+			[
+				"live",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"acki",
+				"Package Control: Install Package"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"au",
+				"Autoprefix CSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS3"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"hph",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"hp",
+				"HTML: Wrap Selection With Tag"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"Snippet: ",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"",
+				"Set Syntax: CSS"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Администратор/C/router.js",
+		"/C/Users/Администратор/C/html/11/me/tools.txt",
+		"/C/Users/Администратор/CMW-html/index.html",
+		"/C/Users/Администратор/CMW-html/chat.html",
+		"/C/Users/Администратор/CMW-html/chat.js",
+		"/C/Users/Администратор/CMW-html/101/me/title.txt",
+		"/C/Users/Администратор/CMW-html/101/me/tools.txt",
+		"/C/Users/Администратор/CMW-html/work.html",
+		"/C/Users/Администратор/CMW-html/sorturl.js",
+		"/C/Users/Администратор/CMW-html/aCall.js",
+		"/C/Users/Администратор/CMW-html/server.js",
+		"/C/Users/Администратор/CMW-html/404.html",
+		"/C/Users/Администратор/Desktop/clickerHeroSave.txt",
+		"/C/Users/Администратор/CMW-html/101/me/text.txt",
+		"/C/Users/Администратор/Desktop/Clickermann v4.11/Если не открывается справка.txt",
+		"/C/Users/Администратор/CMW-html/101/me/title",
+		"/C/Users/Администратор/CMW-html/101/me/text",
+		"/C/Users/Администратор/CMW-html/101/me/tools.textile",
+		"/C/Node/server.js",
+		"/C/Users/Администратор/CMW-html/101/original.html",
+		"/C/Projects/CMW/work_UI.html",
+		"/C/Users/Администратор/CMW-html/101.html",
+		"/C/Node/index.html",
+		"/C/Node/101.html",
+		"/C/Node/404.html",
+		"/E/Crack/readme.txt",
+		"/C/Users/Администратор/Desktop/Prlmi/School game/game.html",
+		"/C/Projects/CMW/work.html",
+		"/C/Users/Администратор/Desktop/Наработки/Try/cir.html",
+		"/C/Users/Администратор/Downloads/Warhammer.40.000.Dawn.of.War.Dark.Crusade/CD - key.txt",
+		"/C/Users/Администратор/Downloads/Autodesk 3ds Max 2013/activation/install.txt",
+		"/E/Crack/install.txt",
+		"/C/Projects/CMW/general.css",
+		"/C/Users/Администратор/Desktop/Наработки/Try/in.html",
+		"/C/Users/Администратор/Desktop/Prlmi/material-design-icons-1.0.0/content/svg/ic_add_48px.svg",
+		"/C/Users/Администратор/Desktop/Наработки/Try/cursor-ico.js",
+		"/C/Users/Администратор/Desktop/Наработки/response.html",
+		"/C/Projects/CMW/correction.html",
+		"/C/Users/Администратор/Desktop/Prlmi/LK/2.0/Tstyle.css",
+		"/C/Projects/CMW/general.css.map",
+		"/Z/home/ftrans.com/www/new/variables.sass",
+		"/Z/home/ftrans.com/www/new/main.sass",
+		"/C/Users/Администратор/Desktop/notes1.txt",
+		"/Z/home/ltg.ru/www/newsletter.sass",
+		"/Z/home/ltg.ru/www/main.sass",
+		"/Z/home/ltg.ru/www/vars.sass",
+		"/Z/home/ftrans.com/www/stats.php",
+		"/C/Users/Администратор/Desktop/Try/in.html",
+		"/C/Users/Администратор/Desktop/Наработки/append.html",
+		"/Z/home/ltg.ru/www/index.html",
+		"/Z/home/ftrans.com/www/stats_1.php",
+		"/C/Users/Администратор/Desktop/Try/blur.js",
+		"/C/Users/Администратор/Desktop/Try/cir.html",
+		"/Z/home/ltg.ru/www/newsletter.css",
+		"/Z/home/ltg.ru/www/newsletter.css.map",
+		"/Z/home/ftrans.com/www/new/rythm.sass",
+		"/Z/home/ltg.ru/www/quantize.js",
+		"/C/Users/Администратор/Desktop/AnimatedGridLayout/index.html",
+		"/Z/home/ftrans.com/www/Research/dropres.php",
+		"/Z/home/ftrans.com/www/Research/short/dropped_vowels.php",
+		"/Z/home/ftrans.com/www/Research/short/paired_vowels.php",
+		"/Z/home/ftrans.com/www/Research/i-types.txt",
+		"/Z/home/ftrans.com/www/Research/10sylls.txt",
+		"/Z/home/ftrans.com/www/Research/long/last_sylls.php",
+		"/Z/home/ftrans.com/www/Research/short/dropped_vowels_cuant.php",
+		"/Z/home/ftrans.com/www/Research/last_sylls_stupid.php",
+		"/Z/home/ftrans.com/www/Research/pairedres.php",
+		"/Z/home/ftrans.com/www/Research/short/paired_vowels_cuant.php",
+		"/Z/home/ftrans.com/www/Research/paired_vowels.php",
+		"/Z/home/ftrans.com/www/Research/short/last_sylls.php",
+		"/Z/home/ftrans.com/www/Research/short/vowelless.php",
+		"/Z/home/ftrans.com/www/Research/short/sylls_length.php",
+		"/Z/home/ftrans.com/www/Research/short/sylls_amount.php",
+		"/Z/home/ftrans.com/www/Research/short/syllabic.php",
+		"/Z/home/ftrans.com/www/Research/short/rythm_words.php",
+		"/Z/home/ftrans.com/www/Research/count_lasts.php",
+		"/Z/home/ftrans.com/www/a_syllables.php",
+		"/C/Users/Администратор/.ssh/id_rsa.pub",
+		"/Z/home/ftrans.com/www/new/types.php",
+		"/Z/home/ftrans.com/www/Research/null.php",
+		"/Z/home/ftrans.com/www/circliful/css/jquery.circliful.css",
+		"/Z/home/ftrans.com/www/circliful/css/styles.css",
+		"/Z/home/ftrans.com/www/circliful/js/jquery.circliful.min.js",
+		"/Z/home/ftrans.com/www/Research/i-res.txt",
+		"/Z/home/ftrans.com/www/Research/i-last.txt",
+		"/Z/home/ftrans.com/www/Research/short/rythms.php",
+		"/Z/home/ftrans.com/www/new/knf_rythm.php",
+		"/Z/home/ftrans.com/www/Research/dores.php",
+		"/Z/home/ftrans.com/www/Research/freq.php",
+		"/Z/home/ftrans.com/www/Research/test.php",
+		"/Z/home/ftrans.com/www/Research/last_sylls.php",
+		"/Z/home/ftrans.com/www/Research/sylls.txt",
+		"/Z/home/ftrans.com/www/styles.sass",
+		"/Z/home/ftrans.com/www/index.html",
+		"/Z/home/ftrans.com/www/main.sass",
+		"/Z/home/ftrans.com/www/variables.sass",
+		"/Z/home/ftrans.com/www/new/variables.css",
+		"/Z/home/ftrans.com/www/rythm.sass",
+		"/Z/home/ftrans.com/www/knf_rythm.php",
+		"/Z/home/ftrans.com/www/update.php",
+		"/Z/home/ftrans.com/www/Research/preparator.php",
+		"/Z/home/ftrans.com/www/Research/rithmres.php",
+		"/Z/home/ftrans.com/www/Research/words.txt",
+		"/Z/home/ftrans.com/www/Research/err.txt",
+		"/Z/home/ftrans.com/www/Research/iterator.txt",
+		"/Z/home/ftrans.com/www/Data/Sounds.txt",
+		"/Z/home/ftrans.com/www/Research/long/dropped_vowels.php",
+		"/Z/home/ftrans.com/www/Research/long/paired_vowels.php",
+		"/Z/home/ftrans.com/www/Research/long/rythms.php",
+		"/Z/home/ftrans.com/www/Research/long/syllabic.php",
+		"/Z/home/ftrans.com/www/Research/long/vowelles.php",
+		"/Z/home/ftrans.com/www/Research/long/sylls_amount.php",
+		"/Z/home/ftrans.com/www/Research/long/sylls_length.php",
+		"/Z/home/ftrans.com/www/Research/short/syllbic.php",
+		"/Z/home/ftrans.com/www/Research/short/vowelles.php",
+		"/Z/home/ftrans.com/www/Research/syllabic.php",
+		"/Z/home/ftrans.com/www/Research/vowelles.php",
+		"/Z/home/ftrans.com/www/Research/dropped_vowels.php",
+		"/Z/home/ftrans.com/www/Research/rythms.php",
+		"/Z/home/ftrans.com/www/Research/sylls_length.php",
+		"/Z/home/ftrans.com/www/Research/sylls_amount.php",
+		"/Z/home/ftrans.com/www/Research/sylls2.txt",
+		"/Z/home/ftrans.com/www/Research/dropped_vowels+all.php",
+		"/C/Users/Администратор/Desktop/School/Metro X3 by exsess/Readme.txt",
+		"/Z/home/ftrans.com/www/syllables.php",
+		"/C/Users/Администратор/Desktop/LK/2.0/newgrid.php",
+		"/C/Users/Администратор/AppData/Roaming/Skype/My Skype Received Files/words.txt",
+		"/Z/home/ftrans.com/www/Research/test.html"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 106.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"CMW-",
+			"		});",
+			"message",
+			"    ",
+			"\">\n",
+			"overflow",
+			"span",
+			"0",
+			"5px",
+			"  ",
+			"span",
+			"blue",
+			"		\n",
+			"src",
+			"a",
+			"\"-\"",
+			"last_sylls_all",
+			"last_sylls_sorted",
+			"mid",
+			"in the end",
+			"in the beginning",
+			"inning",
+			"dle",
+			"\"-\"",
+			"paired",
+			"]",
+			"[",
+			"paired",
+			"parired_vowels_all",
+			" \"",
+			"[",
+			"last_sylls",
+			"[",
+			"6",
+			"data-fill",
+			"border-",
+			"circle",
+			"FFF",
+			"30",
+			"#DDD",
+			"#1f87c4",
+			"#eee",
+			"bgcolor=\"#EEE",
+			"cons",
+			"914",
+			"con",
+			"up",
+			"tree",
+			"hair",
+			":",
+			"normal",
+			"big",
+			"../",
+			"red",
+			"small",
+			"big",
+			"tion",
+			"file",
+			"amount",
+			"\");)",
+			");\n",
+			"syllable",
+			"ory",
+			"  ",
+			" par",
+			"par",
+			"per",
+			"multipart",
+			"per",
+			"par",
+			"per",
+			"$code=$rootcode",
+			"openPage",
+			"per",
+			"par",
+			"per",
+			"rootcode=$c",
+			"rights",
+			"echo",
+			"];",
+			"unhover",
+			"0",
+			"img",
+			"has",
+			"pconnect",
+			"page",
+			"pconnect",
+			"is9",
+			"$_POST['when']",
+			".php",
+			"per",
+			"addwork",
+			"pconnect",
+			"'",
+			"$_SESSION",
+			"per",
+			"\"",
+			"($now)",
+			"page",
+			"$sc+1",
+			"($rows-$left)",
+			"button",
+			";\n",
+			"'roboto New'",
+			"for($c=0;$c<$rows;$c++)\n	{\n		if(mysql_result($q,$c,4)!=\"R\"&&mysql_result($q,$c,4)!=\"RR\"&&mysql_result($q,$c,4)!=\"D\")\n		{\n			$undonelist[count($undonelist)]=mysql_result($q,$c,1);\n		}\n	}",
+			"tv",
+			"body",
+			"mysql_result",
+			"($q,($rows-$left),",
+			".\"",
+			"\".",
+			";\n",
+			"margin",
+			"Upload",
+			"(==",
+			"bac",
+			"menu",
+			"f1",
+			"id='wormates",
+			"16",
+			"\"",
+			"doneit",
+			"image_p",
+			"width_orig",
+			"when",
+			"copy",
+			"calendar",
+			"по"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"par",
+			"($now-1)",
+			"$sc",
+			""
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 42.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 116.0
+	},
+	"pinned_build_system": "",
+	"project": "app.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

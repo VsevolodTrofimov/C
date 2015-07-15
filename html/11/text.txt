@@ -1,0 +1,229 @@
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Обычная таблица";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:10.0pt;
+	mso-para-margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-ascii-font-family:Calibri;
+	mso-ascii-theme-font:minor-latin;
+	mso-hansi-font-family:Calibri;
+	mso-hansi-theme-font:minor-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:minor-bidi;
+	mso-fareast-language:EN-US;}
+</style>
+<![endif]-->
+
+<p class="MsoNormal"><span style="font-size:48.0pt;line-height:115%;mso-bidi-font-weight:
+bold">Хрущев</span></p>
+
+<p class="MsoNormal"><b>Никита Сергеевич Хрущёв </b>жил с 1894 по 1971. Руководил
+СССР с 1953 по 1964.</p>
+
+<p class="MsoNormal"><span style="font-size:28.0pt;line-height:115%;mso-bidi-font-weight:
+bold">Направления</span></p>
+
+<p class="MsoNormal">Направлениями деятельности Хрущева было внедрение рыночной
+экономики и борьба с религией.</p>
+
+<p class="MsoNormal" style="line-height:150%">Внедрение рыночной экономики было
+ознаменовано группой реформ, называемой<span class="mw-redirectedfrom"> «Косыгинские
+реформы»</span>: Реформы характеризовалась внедрением экономических методов
+управления, расширением хозяйственной <span style="font-family:&quot;Open Sans&quot;,&quot;sans-serif&quot;">самостоятельности</span>
+предприятий, объединений и организаций, широким использованием приёмов
+материального стимулирования. Представляли из себя эти реформы комплекс из 5 мероприятий:</p>
+
+<p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="color:black;mso-themecolor:text1;
+mso-fareast-language:RU">Ликвидировались советы народного хозяйства</span><span style="mso-fareast-language:RU">, созданные в 1957 г.</span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="mso-fareast-language:RU">Сокращалось
+количество директивных плановых показателей (с 30 до 9). Действующими
+оставались показатели по: общему объёму продукции в действующих оптовых ценах;
+важнейшей продукции в натуральном измерении; общему фонду заработной платы;
+общей суммы прибыли и рентабельности, выраженной как отношение прибыли к сумме
+основных фондов и нормируемых оборотных средств; платежам в бюджет и ассигнованиям
+из бюджета; общему объёму капитальных вложений; заданий по внедрению новой
+техники; объёму поставок сырья, материалов и оборудования.</span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="mso-fareast-language:RU">Расширялась
+хозяйственная самостоятельность предприятий. Предприятия обязаны были
+самостоятельно определять детальную номенклатуру и ассортимент продукции, за
+счёт собственных средств осуществлять инвестиции в производство, устанавливать
+долговременные договорные связи с поставщиками и потребителями, определять
+численность персонала, размеры его материального поощрения. За невыполнение
+договорных обязательств предприятия подвергались финансовым санкциям,
+усиливалось значение хозяйственного арбитража.</span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="mso-fareast-language:RU">Ключевое
+значение придавалось — прибыли и рентабельности. За счёт прибыли предприятия
+получали возможность формировать ряд фондов — фонды развития производства,
+материального поощрения, социально-культурного назначения, жилищного
+строительства, др. Использовать фонды предприятия могли по своему усмотрению
+(разумеется, в рамках существующего законодательства).</span></p>
+
+<p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;mso-list:l2 level1 lfo1"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="mso-fareast-language:RU">Ценовая
+политика: оптовая цена реализации должна была обеспечивать предприятию заданную
+рентабельность производства. Вводились нормативы длительного действия — не
+подлежащие пересмотру в течение определённого периода нормы плановой
+себестоимости продукции.</span></p>
+
+<p class="MsoNormal"><span style="mso-fareast-language:RU">Антирелигиозная
+деятельность Хрущева содержала в себе такие мероприятия, как:</span></p>
+
+<p class="MsoListParagraphCxSpFirst" style="text-indent:-18.0pt;mso-list:l0 level1 lfo2"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span>Постановление «Об ошибках в проведении
+научно-атеистической пропаганды среди населения»(1954)<span style="mso-fareast-language:
+RU"></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo2"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span>Кампания по «ограничению религиозной
+деятельности»(1960)<span style="mso-fareast-language:RU"></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo2"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><span style="mso-fareast-language:RU">Поощрение
+антирелигиозной пропаганды в искусстве, например, </span>известный эксперт в
+области кинематографа Александр Фёдоров
+констатировал: <i>«Максимально заточенные на прямое отражение политических
+решений „верхов“, советские антирелигиозные фильмы эпохи 1950-х&nbsp;— 1980-х
+годов выполняли предназначенные им „сверху“ функции: обвиняли церковь и
+верующих в разнообразных грехах и старались внушить широкой аудитории
+атеистические взгляды»</i><span style="mso-fareast-language:RU"> </span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo2"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span>За время антирелигиозной кампании были снесены
+многие храмы(Троицкий собор в Стрельне, церковь Спаса на Сенной)<span style="mso-fareast-language:RU"></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo2"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span>В указе о борьбе с тунеядством было указано, что
+представители религиозных должностей велдут «антиобщественный паразитический
+образ жизни»<span style="mso-fareast-language:RU"></span></p>
+
+<p class="MsoListParagraphCxSpMiddle" style="text-indent:-18.0pt;mso-list:l0 level1 lfo2"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">6.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span>1961—1964 годах было выслано в отдаленные районы
+более 400 верующих<span style="mso-fareast-language:RU"></span></p>
+
+<p class="MsoListParagraphCxSpLast" style="text-indent:-18.0pt;mso-list:l0 level1 lfo2"><span style="mso-bidi-font-family:Calibri;mso-bidi-theme-font:minor-latin;mso-fareast-language:
+RU"><span style="mso-list:Ignore">7.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span>Статья 227, карающая за создание группы (в том числе
+религиозной), «причиняющей вред здоровью» и посягающей на личность и права
+граждан, предусматривала до 5 лет лишения свободы(все неофициальное религиозные
+группы считались таковыми).<span style="mso-fareast-language:RU"></span></p>
+
+<p class="MsoNormal"><span style="font-size:28.0pt;line-height:115%;mso-bidi-font-weight:
+bold">Итого</span></p>
+
+<p class="MsoNormal"><span style="mso-fareast-language:RU">В результате этих
+действий Хрущева а</span>теистическое государство не смогло одолеть религию. Однако
+стабильность выстроенных в послевоенное время отношений между государством и
+верующими была нарушена: государство получило крайне нежелательные для себя
+нелегальные организации вроде СЦ ЕХБ (Международный союз церквей евангельских
+христиан-баптистов) и его аналогов в других конфессиях, состоящие из людей
+глубоко убежденных в своей правоте, жертвенных и дисциплинированных. До самого
+падения советской власти государство так и не смогло справиться с этими
+организациями.</p>
+
+<p class="MsoNormal">Антирелигиозная кампания показала, что уничтожить религию
+крайне сложно, и впредь советское государство вынуждено было вести себя более
+осмотрительно</p>
+
+<p class="MsoNormal" style="margin-left:18.0pt"><span style="mso-fareast-language:
+RU">&nbsp;</span></p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l1 level1 lfo3"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>В
+экономической реформе Хрущев также потерпел провал: «В современной
+историографии доминирует точка зрения о сворачивании реформы либо, о её полной
+неудаче» пишет Пыжиков А.В. в своей книге.</p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l1 level1 lfo3"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>В
+1962 году начались перебои со снабжением населенных пунктов промышленными
+товарами и продуктами питания.</p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l1 level1 lfo3"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Повышение
+розничных цен на мясо, мясные продукты и масло вместе с ухудшением условий
+труда вызвали волну забастовок и выступлений трудящихся в Риге, Киеве,
+Челябинске, Ленинграде, Омске, Кемерове, Донецке, Артемьевске, Краматорске.</p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l1 level1 lfo3"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">4.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Особенно
+острое замедление роста наблюдалось в сельском хозяйстве, где вместо запланированных
+70%, рост сельскохозяйственного производства к 1965 году составил всего 15%.</p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l1 level1 lfo3"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">5.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>В
+целом не была решена проблема нехватки и качества товаров народного
+потребления.</p>
+
+<p class="MsoNoSpacing">&nbsp;</p>
+
+<p class="MsoNoSpacing">Из положительных результатов реформы можно выделить:</p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l3 level1 lfo4"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">1.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Увеличение
+среднего дохода жителя СССР на треть.</p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l3 level1 lfo4"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">2.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>Возросло
+на 84% производство промышленной продукции.</p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt;text-indent:-18.0pt;mso-list:
+l3 level1 lfo4"><span style="mso-bidi-font-family:Calibri;
+mso-bidi-theme-font:minor-latin"><span style="mso-list:Ignore">3.<span style="font:7.0pt &quot;Times New Roman&quot;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span>В
+период с 1950 по 1964 годы площадь жилья увеличилась 2,3 раза.(Благодаря жилывм
+фондам, которыми свободно пользовались предприятия).</p>
+
+<p class="MsoNoSpacing" style="margin-left:36.0pt">&nbsp;</p>
+
+<p class="MsoNormal">Российский историк В. А. Красильщиков так оценил экономические
+достижения того периода:</p>
+
+<table class="MsoNormalTable" style="border-collapse:collapse;mso-yfti-tbllook:1184" border="0" cellpadding="0" cellspacing="0">
+ <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;mso-yfti-lastrow:yes">
+  <td style="width:22.5pt;padding:.75pt 7.5pt .75pt .75pt" valign="top" width="30"><br></td>
+  <td style="padding:.75pt .75pt .75pt .75pt">
+  <p class="MsoNormal"><span style="mso-fareast-language:RU">«Хрущевское
+  десятилетие — один из самых важных периодов в истории России/СССР ХХ века с
+  точки зрения модернизации. Никогда на протяжении XVIII–XX веков разрыв между
+  Россией/СССР и Западом не был так мал, как в эти годы.»</span></p>
+  </td>
+ </tr>
+</tbody></table>
+
+<p class="MsoNoSpacing" style="margin-left:18.0pt">&nbsp;</p>
