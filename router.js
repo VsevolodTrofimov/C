@@ -1,6 +1,24 @@
 var url    = require("url");
 var fs     = require("fs");
-exports.direct = function(req,res,urlLvL){
+var mongodb = require('mongodb');
+var MongoClient = mongodb.MongoClient;
+var url = 'mongodb://localhost:27017/my_database_name';
+// Use connect method to connect to the Server
+MongoClient.connect(url, function (err, db) {
+  if (err) {
+    console.log('Unable to connect to the mongoDB server. Error:', err);
+  } else {
+    //HURRAY!! We are connected. :)
+    console.log('Connection established to', url);
+
+    // do some work here with the database.
+
+    //Close connection
+    db.close();
+  }
+});
+
+exports.direct = function(req,res,sess){
 	var parsed = url.parse(req.url, true)
 	var path = parsed.pathname;
 	var query = parsed.query;
@@ -10,7 +28,23 @@ exports.direct = function(req,res,urlLvL){
 	var version;
 	var numbersOnly=new RegExp('^\\d+$');
 	//basic scenarios
-	console.log(query,Object.keys(query).length);
+	console.log("path:",path);
+	console.log("url :",req.url);
+	if(path=='/s')
+	{
+		if (sess.views) {
+			sess.views++;
+			res.setHeader('Content-Type', 'text/html');
+			res.write('<p>views: ' + sess.views + '</p>');
+			res.write('<p>expires in: ' + (sess.cookie.maxAge / 1000) + 's</p>');
+			res.end();
+		} else {
+			sess.views = 1;
+			res.end('welcome to the session demo. refresh!');
+		}
+	}
+	else{
+
 
 	if(!Object.keys(query).length>0){
 		switch(true){
@@ -148,7 +182,12 @@ exports.direct = function(req,res,urlLvL){
 				res.end();
 				break;
 			default:
+				res.write("error");
+				res.end();
 				break;
 		}
 	}
+	//del after session come to work
+	}
+	//nothing more to del
 }
