@@ -1,11 +1,7 @@
 var express = require('express');
 var session = require('express-session');
-var fs= require("fs");
-<<<<<<< HEAD
+var fs = require("fs");
 var router = require("router.js");
-=======
-var router = require("./router.js");
->>>>>>> origin/master
 var bodyParser = require("body-parser");
 var app = express();
 
