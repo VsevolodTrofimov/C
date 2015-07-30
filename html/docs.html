@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<meta charset='utf-8'>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript">
+	var user = {};
+	$(document).ready(function() {
+		check_user();
+	});
+	function logIn(){
+		$.get("../login?email="+$("#login input[type=email]").val()+"&password="+$("#login input[type=password]").val(),function( data ) {
+			console.log(data);
+			check_user();
+		});
+	}
+	function check_user(){
+		$.get("../check-login?page=docs",function( data ) {
+			if(data=="unlog")
+			{
+				$("#login").fadeIn(250);
+			}
+			else
+			{
+				user=JSON.parse(data);
+				$("#message").text("Welcome "+user.firstName);
+			}
+		});
+	}
+	function reg_user(){
+		$.get("../register?email="+$("#register input[type=email]").val()+"&password="+$("#register input[type=password]").val()+"&firstName="+$("#register input[name=firstName]").val()+"&lastName="+$("#register input[name=lastName]").val(),function( data ) {
+			alert(data);
+		});
+	}
+</script>
+<style type="text/css">#login{display: none;}</style>
+<head>
+	<title>Your Docs</title>
+</head>
+<body>
+	<div id="message">No docs, loginless</div>
+	<div id="login">
+		<input type="email" placeholder="email"><br>
+		<input type="password" placeholder="Password">
+		<button onclick="logIn()">Войти</button>
+	</div>
+	<div id="register">
+		<input type="email" placeholder="email" name="email"><br>
+		<input type="password" placeholder="Password" name="password"><br>
+		<input type="text" placeholder="Имя" name="firstName"><br>
+		<input type="text" placeholder="Фамилия" name="lastName">
+		<button onclick="reg_user()">Регнуться</button>
+	</div>
+</body>
+</html>

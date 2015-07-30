@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Create new</title>
+	<meta charset="utf8">
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+	<script type="text/javascript">
+		var user = {};
+		$(document).ready(function() {
+			check_user();
+		});
+		function logIn(){
+			$.get("../login?email="+$("#login input[type=email]").val()+"&password="+$("#login input[type=password]").val(),function( data ) {
+				check_user();
+			});
+		}
+		function check_user(){
+			$.get("../check-login?page=docs",function( data ) {
+				if(data=="unlog")
+				{
+					$("#login").fadeIn(250);
+				}
+				else
+				{
+					user=JSON.parse(data);
+					$("#message").text("Welcome "+user.firstName);
+				}
+			});
+		}
+		function sendData(){
+			$.post('../create-new-doc', {title: $("#f1 input[name=title]").val(),text: $("#f1 div").html(),author: user.email.split("@")[0]}, function(data, textStatus, xhr) {
+				$("body").append(data);
+			});
+		}
+	</script>
+</head>
+<body>
+	<div id="f1">
+		Заголовок:<input type="text" name="title"><br>
+		Текст:<br>
+		<div contenteditable>Тык сюды</div><br>
+		<button onclick="sendData()">Создать</button>
+	</div>
+	<div id="message">No docs, loginless</div>
+	<div id="login">
+		<input type="email" placeholder="email"><br>
+		<input type="password" placeholder="Password">
+		<button onclick="logIn()">Войти</button>
+	</div>
+</body>
+</html>

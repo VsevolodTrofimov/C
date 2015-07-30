@@ -1,0 +1,599 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"border",
+				"border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 1682,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "node_modules/router.js",
+			"settings":
+			{
+				"buffer_size": 5793,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projects/C-frontend/work_UI.html",
+			"settings":
+			{
+				"buffer_size": 6917,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projects/C-frontend/board.sass",
+			"settings":
+			{
+				"buffer_size": 552,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/E/Projects/C-frontend/general.sass",
+			"settings":
+			{
+				"buffer_size": 6473,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 654,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "html/work.html",
+			"settings":
+			{
+				"buffer_size": 2262,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/newdoc.html",
+			"settings":
+			{
+				"buffer_size": 1369,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/docs.html",
+			"settings":
+			{
+				"buffer_size": 1645,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/SASS Build/SASS - Compressed.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/SASS Build/SASS - Compressed.sublime-build",
+					""
+				],
+				[
+					"Packages/SASS Build/SASS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/SASS Build/SASS - Compressed.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"js",
+				"Set Syntax: JSON"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 382.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/E/Projects/C",
+		"/E/Projects/C/html",
+		"/E/Projects/C/html/11",
+		"/E/Projects/C/html/12",
+		"/E/Projects/C/html/12/kuorell",
+		"/E/Projects/C/node_modules"
+	],
+	"file_history":
+	[
+		"/E/Projects/C/html/12/kuorell/issues.txt",
+		"/E/Projects/CMW.rar",
+		"/E/Projects/C/router.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1682,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1407,
+								1407
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "node_modules/router.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5381,
+								5381
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 3007.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "E:\\Projects\\C\\html\\12\\kuorell\\issues",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/E/Projects/C-frontend/work_UI.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/E/Projects/C-frontend/board.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 552,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								126,
+								126
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/E/Projects/C-frontend/general.sass",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6473,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								478,
+								478
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 654,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								256,
+								256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 9,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 7,
+					"file": "html/work.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2262,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "html/newdoc.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1369,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "html/docs.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1645,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 70.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				0,
+				1,
+				1,
+				2
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			0.947916666667,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 75.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "c-app.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 199.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

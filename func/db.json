@@ -1,0 +1,7 @@
+users : {
+	seva.trofimov@gmail.com : {
+		password : "seva2504",
+		name : "Всеволод",
+		lastname : "Трофимов"
+	}
+}
