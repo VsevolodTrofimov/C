@@ -79,11 +79,17 @@
 			$('#overlay').hide();
 		}
 	}
+	function newIssue(){
+		$.get("../create-issue?serial="+serial+"&vers="+version+"&color=red&issueId=1&range=42",function( data ) {
+			alert(data);
+		});
+	}
 	var loading=setInterval(function(){render();console.log("interval")}, 100);
 </script>
 </head>
 <body>
 workUI
+<button onclick="newIssue()">Issue Create</button>
 <div id="overlay"><h1>LOADING...</h1></div>
 <h1 class="title"></h1>
 

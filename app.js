@@ -1,6 +1,7 @@
 var express = require('express');
 var session = require('express-session');
 var fs = require("fs");
+var addUser= require("addUser");
 var router = require("router.js");
 var bodyParser = require("body-parser");
 var app = express();
@@ -23,7 +24,7 @@ app.use(session({ secret: 'keyboard cat', cookie: { maxAge: 1800000 }}));
 //create new doc (too heavy for get handlig)
 app.post('/create-new-doc',function(req,res){
 	var post  = req.body;
-	fs.readFile("./func/workNum.txt","utf8",function(err,data){
+	fs.readFile("./func/serial.txt","utf8",function(err,data){
 		if(err) {
 			console.log(err);
 			throw err;
@@ -31,29 +32,27 @@ app.post('/create-new-doc',function(req,res){
 		else {
 
 			//for valid url generation
-			worknum=parseInt(data);
+			serial=parseInt(data);
 			res.writeHead("200", {
 				"Content-Type": "text/html",
 				"Content-Language": "ru"
 			});
-			fs.writeFile("./func/workNum.txt", (worknum+1));
+			fs.writeFile("./func/serial.txt", (serial+1));
 
 			//make dir with all needed files
-			var path="./html/"+worknum+"/";
+			var path="./html/"+serial+"/";
 			var info = {
 					title   : post.title,
-					versions: [post.author]
+					author  : post.author,
+					versions: [] 
 				}
-
-			fs.mkdir("./html/"+worknum, function(){
+			fs.mkdir("./html/"+serial, function(){
 				fs.writeFile(path+"text.txt", post.text);
-				fs.writeFile(path+"info.json", JSON.stringify(info));
-				fs.writeFile(path+"issues.txt", '');
-				fs.mkdir(path+author);
+				fs.writeFile(path+"info.json", JSON.stringify(info),function(err,data){
+					addUser.do(post.author,serial);
+				});
 			});
-
-
-			res.write(post.title+" by "+post.author+":<br>"+post.text+"<br><br>Work will have num:"+worknum);
+			res.write(post.title+" by "+post.author+":<br>"+post.text+"<br><br>Work will have num:"+serial);
 			res.end();
 		}
 	});
